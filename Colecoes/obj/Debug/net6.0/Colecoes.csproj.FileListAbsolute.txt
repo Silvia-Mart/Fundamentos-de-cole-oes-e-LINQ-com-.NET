@@ -1,0 +1,15 @@
+C:\Fundamentos de coleçoes e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.exe
+C:\Fundamentos de coleçoes e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.deps.json
+C:\Fundamentos de coleçoes e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.runtimeconfig.json
+C:\Fundamentos de coleçoes e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.dll
+C:\Fundamentos de coleçoes e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.pdb
+C:\Fundamentos de coleçoes e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
+C:\Fundamentos de coleçoes e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fundamentos de coleçoes e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
+C:\Fundamentos de coleçoes e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
+C:\Fundamentos de coleçoes e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache
+C:\Fundamentos de coleçoes e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.dll
+C:\Fundamentos de coleçoes e LINQ com .NET\Colecoes\obj\Debug\net6.0\refint\Colecoes.dll
+C:\Fundamentos de coleçoes e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.pdb
+C:\Fundamentos de coleçoes e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache
+C:\Fundamentos de coleçoes e LINQ com .NET\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll
